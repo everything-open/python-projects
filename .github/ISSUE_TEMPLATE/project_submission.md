@@ -1,6 +1,6 @@
 ---
 name: "Project Submission"
-about: "Submit your Dart or Flutter project to be listed in this repository"
+about: "Submit your Python project to be listed in this repository"
 title: "[Project Submission] <Project Name>"
 labels: ["submission"]
 assignees: []
